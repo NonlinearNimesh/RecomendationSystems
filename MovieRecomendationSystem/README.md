@@ -48,5 +48,5 @@ And, Then we need to sign up/Login on to heroku and create an app, and after cre
 ### HOST
 After doint all the above process you will get a website where your app will run. You can find my webapp @[https://mymovierecomendation.herokuapp.com/](https://mymovierecomendation.herokuapp.com/) which will look like something like this.
 
-![This is an image](https://ibb.co/mSGdp2y)
+![This is an image](images/Screenshot.png)
 
